@@ -1,0 +1,1 @@
+# BaiduOCR-Test.ahk
